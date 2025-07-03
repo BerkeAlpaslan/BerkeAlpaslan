@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berke Alpaslan</h1>
-<h3 align="center">Passionately pursuing a career as a backend developer with a primary focus on .NET architecture!</h3>
+<h3 align="center">I’m a 3rd-year Computer Engineering student with a GPA of 3.45/4.00. I develop backend applications using .NET Core, ASP.NET, and Entity Framework.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
